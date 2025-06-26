@@ -1,5 +1,5 @@
 
-<h1 align="center">🕷️⚡💻 theSpydraX</h1>
+<h1 align="center">theSpydraX <br> 🕷️⚡💻</h1>
 <p align="center">
   <img src="https://i.ibb.co/ZRz3pjXb/retouch-2025062617054096.png" width="180" alt="Spydrax Logo"/>
 </p>

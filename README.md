@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"><em>
-🕶️ No username. No password. <br> Just presence.<br>
+🕶️ No username. No password. Just presence.<br>
 🔵 I leave no footprints — only blue fingerprints.<br>
 🧠 You won’t know I was there — but your system will.
 </em></p>
